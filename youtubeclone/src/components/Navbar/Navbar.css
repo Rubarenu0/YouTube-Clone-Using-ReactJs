@@ -1,0 +1,15 @@
+.Navbar{
+    flex: 0;
+    display: block;
+    background-color: bisque;
+    box-shadow: 10px 10px 10px 10px gray;
+
+    .icon{
+        padding: 20px;
+        font-size: 30px;
+
+        &:hover{
+            color: red;
+        }
+    }
+}
